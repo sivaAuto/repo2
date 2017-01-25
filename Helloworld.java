@@ -6,7 +6,7 @@ class Helloworld
 
          {
            
-             System.outprintln("HelloWorld programm");
+             System.out.println("HelloWorld programm");
          }
 
 
