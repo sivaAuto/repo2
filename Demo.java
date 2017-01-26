@@ -12,7 +12,7 @@ class Demo
            for(int i=1;i<=10;i++)
                {
                    
-           System.out.println("Demo programm",+i); 
+           System.out.println("Demo programm", +i); 
                 }
 
 
